@@ -245,6 +245,10 @@ element.addEventListener('mouseover', function () {
   element.innerHTML = ` &copy; Copyright <strong><span>Covid 19</span></strong> <br> <hr class" d-block bg-danger"  > <marquee class="shadow font-weight-bold">${a}</marquee>`;
 })
 
+// const TentangDevelopers_img = document.getElementById('TentangDevelopers_img');
+// const CreateElement_TentangDevelopers = document.createElement('img')
+// TentangDevelopers_img.appendChild(CreateElement_TentangDevelopers);
+})
 
 
 
@@ -265,3 +269,5 @@ element.addEventListener('mouseover', function () {
 
 
 
+
+''
